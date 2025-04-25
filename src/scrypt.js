@@ -84,5 +84,5 @@ window.addEventListener('load', function() {
         setTimeout(function() {
             preloader.style.display = 'none';
         }, 500); 
-    }, 1500);
+    }, 1000);
 });
